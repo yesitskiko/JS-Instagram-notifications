@@ -1,10 +1,12 @@
-# This requires JQUERY or else it won't work.
-# !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 # JS-Instagram-notifications
 The brand new notification library that tries to resemble the new Instagram native notifications.
 The notifications aren't 1:1 but they are good enough.
 
 # Documentation
+## Implement JQuery
+```html
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+```
 ## How to implement
 Download the script.js and put it inside your website folder and add a script header to your html code to run it.
 Then add this to your body:
