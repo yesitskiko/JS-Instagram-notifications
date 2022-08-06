@@ -1,3 +1,5 @@
+# This requires JQUERY or else it won't work.
+# !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 # JS-Instagram-notifications
 The brand new notification library that tries to resemble the new Instagram native notifications.
 The notifications aren't 1:1 but they are good enough.
