@@ -4,10 +4,7 @@ The notifications aren't 1:1 but they are good enough.
 
 # Documentation
 ## How to implement
-Add the code below to your **head** in your html file.
-```html
-<script src="script.js"></script>
-```
+Download the script.js and put it inside your website folder and add a script header to your html code to run it.
 
 ## Usage
 ```js
